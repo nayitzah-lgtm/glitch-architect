@@ -1,0 +1,10 @@
+# Foreman Configuration for Roblox Development Tools
+
+# Define the environment for Rojo and other tools
+
+[default]
+  # Path to Rojo installation
+  rojo = "./path/to/rojo"
+
+# Add additional tools or configurations as needed
+
